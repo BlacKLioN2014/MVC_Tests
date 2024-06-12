@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abraham I\\Documents\\Proyectos\\Curso_Mvc\\Curso_Mvc\\Curso_Mvc.csproj": {}
+    "C:\\Users\\Abraham I\\Desktop\\Proyecto_GitHub\\Curso_Mvc\\Curso_Mvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abraham I\\Documents\\Proyectos\\Curso_Mvc\\Curso_Mvc\\Curso_Mvc.csproj": {
+    "C:\\Users\\Abraham I\\Desktop\\Proyecto_GitHub\\Curso_Mvc\\Curso_Mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abraham I\\Documents\\Proyectos\\Curso_Mvc\\Curso_Mvc\\Curso_Mvc.csproj",
+        "projectUniqueName": "C:\\Users\\Abraham I\\Desktop\\Proyecto_GitHub\\Curso_Mvc\\Curso_Mvc.csproj",
         "projectName": "Curso_Mvc",
-        "projectPath": "C:\\Users\\Abraham I\\Documents\\Proyectos\\Curso_Mvc\\Curso_Mvc\\Curso_Mvc.csproj",
+        "projectPath": "C:\\Users\\Abraham I\\Desktop\\Proyecto_GitHub\\Curso_Mvc\\Curso_Mvc.csproj",
         "packagesPath": "C:\\Users\\Abraham I\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abraham I\\Documents\\Proyectos\\Curso_Mvc\\Curso_Mvc\\obj\\",
+        "outputPath": "C:\\Users\\Abraham I\\Desktop\\Proyecto_GitHub\\Curso_Mvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
