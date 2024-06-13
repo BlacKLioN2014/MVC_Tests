@@ -1,21 +1,27 @@
+using Curso_Mvc.Data;
 using Curso_Mvc.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 
 namespace Curso_Mvc.Controllers
 {
-    public class HomeController : Controller
+    public class InicioController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        //private readonly ILogger<InicioController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        private readonly ApplicationDbContext _dbContext;
+
+        
+        public InicioController(/*ILogger<InicioController> logger*/ApplicationDbContext dbContext)
         {
-            _logger = logger;
+            //_logger = logger;
+            _dbContext = dbContext;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+            return View(await _dbContext.contacto.ToListAsync());
         }
 
         public IActionResult Privacy()
