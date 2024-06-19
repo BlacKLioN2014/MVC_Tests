@@ -135,3 +135,12 @@ C:\Users\Abraham I\Desktop\Proyecto_GitHub\Curso_Mvc\obj\Debug\net8.0\refint\Cur
 C:\Users\Abraham I\Desktop\Proyecto_GitHub\Curso_Mvc\obj\Debug\net8.0\Curso_Mvc.pdb
 C:\Users\Abraham I\Desktop\Proyecto_GitHub\Curso_Mvc\obj\Debug\net8.0\Curso_Mvc.genruntimeconfig.cache
 C:\Users\Abraham I\Desktop\Proyecto_GitHub\Curso_Mvc\obj\Debug\net8.0\ref\Curso_Mvc.dll
+C:\Users\abrah\OneDrive\Escritorio\Pruebas MVC\MVC_Tests\Curso_Mvc\obj\Debug\net8.0\Curso_Mvc.csproj.AssemblyReference.cache
+C:\Users\abrah\OneDrive\Escritorio\Pruebas MVC\MVC_Tests\Curso_Mvc\obj\Debug\net8.0\Curso_Mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abrah\OneDrive\Escritorio\Pruebas MVC\MVC_Tests\Curso_Mvc\obj\Debug\net8.0\Curso_Mvc.AssemblyInfoInputs.cache
+C:\Users\abrah\OneDrive\Escritorio\Pruebas MVC\MVC_Tests\Curso_Mvc\obj\Debug\net8.0\Curso_Mvc.AssemblyInfo.cs
+C:\Users\abrah\OneDrive\Escritorio\Pruebas MVC\MVC_Tests\Curso_Mvc\obj\Debug\net8.0\Curso_Mvc.csproj.CoreCompileInputs.cache
+C:\Users\abrah\OneDrive\Escritorio\Pruebas MVC\MVC_Tests\Curso_Mvc\obj\Debug\net8.0\Curso_Mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abrah\OneDrive\Escritorio\Pruebas MVC\MVC_Tests\Curso_Mvc\obj\Debug\net8.0\Curso_Mvc.RazorAssemblyInfo.cache
+C:\Users\abrah\OneDrive\Escritorio\Pruebas MVC\MVC_Tests\Curso_Mvc\obj\Debug\net8.0\Curso_Mvc.RazorAssemblyInfo.cs
+C:\Users\abrah\OneDrive\Escritorio\Pruebas MVC\MVC_Tests\Curso_Mvc\obj\Debug\net8.0\Curso_Mvc.sourcelink.json

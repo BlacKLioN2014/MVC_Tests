@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Abraham I\\Desktop\\Proyecto_GitHub\\",
+  "WorkspaceRootPath": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{187C907E-A1F2-42D1-8158-76D8400F8E53}|Curso_Mvc\\Curso_Mvc.csproj|c:\\users\\abraham i\\desktop\\proyecto_github\\curso_mvc\\views\\inicio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{187C907E-A1F2-42D1-8158-76D8400F8E53}|Curso_Mvc\\Curso_Mvc.csproj|solutionrelative:curso_mvc\\views\\inicio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{187C907E-A1F2-42D1-8158-76D8400F8E53}|Curso_Mvc\\Curso_Mvc.csproj|c:\\users\\abraham i\\desktop\\proyecto_github\\curso_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{187C907E-A1F2-42D1-8158-76D8400F8E53}|Curso_Mvc\\Curso_Mvc.csproj|solutionrelative:curso_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{187C907E-A1F2-42D1-8158-76D8400F8E53}|Curso_Mvc\\Curso_Mvc.csproj|c:\\users\\abraham i\\desktop\\proyecto_github\\curso_mvc\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{187C907E-A1F2-42D1-8158-76D8400F8E53}|Curso_Mvc\\Curso_Mvc.csproj|c:\\users\\abrah\\onedrive\\escritorio\\pruebas mvc\\mvc_tests\\curso_mvc\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{187C907E-A1F2-42D1-8158-76D8400F8E53}|Curso_Mvc\\Curso_Mvc.csproj|solutionrelative:curso_mvc\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187C907E-A1F2-42D1-8158-76D8400F8E53}|Curso_Mvc\\Curso_Mvc.csproj|c:\\users\\abrah\\onedrive\\escritorio\\pruebas mvc\\mvc_tests\\curso_mvc\\views\\inicio\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{187C907E-A1F2-42D1-8158-76D8400F8E53}|Curso_Mvc\\Curso_Mvc.csproj|solutionrelative:curso_mvc\\views\\inicio\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187C907E-A1F2-42D1-8158-76D8400F8E53}|Curso_Mvc\\Curso_Mvc.csproj|c:\\users\\abrah\\onedrive\\escritorio\\pruebas mvc\\mvc_tests\\curso_mvc\\views\\inicio\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{187C907E-A1F2-42D1-8158-76D8400F8E53}|Curso_Mvc\\Curso_Mvc.csproj|solutionrelative:curso_mvc\\views\\inicio\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187C907E-A1F2-42D1-8158-76D8400F8E53}|Curso_Mvc\\Curso_Mvc.csproj|c:\\users\\abrah\\onedrive\\escritorio\\pruebas mvc\\mvc_tests\\curso_mvc\\views\\inicio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{187C907E-A1F2-42D1-8158-76D8400F8E53}|Curso_Mvc\\Curso_Mvc.csproj|solutionrelative:curso_mvc\\views\\inicio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,48 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "InicioController.cs",
-              "DocumentMoniker": "C:\\Users\\Abraham I\\Desktop\\Proyecto_GitHub\\Curso_Mvc\\Controllers\\InicioController.cs",
-              "RelativeDocumentMoniker": "Curso_Mvc\\Controllers\\InicioController.cs",
-              "ToolTip": "C:\\Users\\Abraham I\\Desktop\\Proyecto_GitHub\\Curso_Mvc\\Controllers\\InicioController.cs",
-              "RelativeToolTip": "Curso_Mvc\\Controllers\\InicioController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAkwBYAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T05:40:31.657Z",
-              "IsPinned": true,
+              "DocumentIndex": 1,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\Curso_Mvc\\Views\\Inicio\\Editar.cshtml",
+              "RelativeDocumentMoniker": "Curso_Mvc\\Views\\Inicio\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\Curso_Mvc\\Views\\Inicio\\Editar.cshtml",
+              "RelativeToolTip": "Curso_Mvc\\Views\\Inicio\\Editar.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T21:44:23.757Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Abraham I\\Desktop\\Proyecto_GitHub\\Curso_Mvc\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Curso_Mvc\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Abraham I\\Desktop\\Proyecto_GitHub\\Curso_Mvc\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Curso_Mvc\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
+              "DocumentIndex": 2,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\Curso_Mvc\\Views\\Inicio\\Crear.cshtml",
+              "RelativeDocumentMoniker": "Curso_Mvc\\Views\\Inicio\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\Curso_Mvc\\Views\\Inicio\\Crear.cshtml",
+              "RelativeToolTip": "Curso_Mvc\\Views\\Inicio\\Crear.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-13T04:09:28.215Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-06-19T20:17:11.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\Curso_Mvc\\Views\\Inicio\\Index.cshtml",
+              "RelativeDocumentMoniker": "Curso_Mvc\\Views\\Inicio\\Index.cshtml",
+              "ToolTip": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\Curso_Mvc\\Views\\Inicio\\Index.cshtml",
+              "RelativeToolTip": "Curso_Mvc\\Views\\Inicio\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T03:38:59.114Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Abraham I\\Desktop\\Proyecto_GitHub\\Curso_Mvc\\Views\\Inicio\\Index.cshtml",
-              "RelativeDocumentMoniker": "Curso_Mvc\\Views\\Inicio\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Abraham I\\Desktop\\Proyecto_GitHub\\Curso_Mvc\\Views\\Inicio\\Index.cshtml",
-              "RelativeToolTip": "Curso_Mvc\\Views\\Inicio\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-13T03:38:59.114Z",
-              "IsPinned": true,
+              "Title": "InicioController.cs",
+              "DocumentMoniker": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\Curso_Mvc\\Controllers\\InicioController.cs",
+              "RelativeDocumentMoniker": "Curso_Mvc\\Controllers\\InicioController.cs",
+              "ToolTip": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\Curso_Mvc\\Controllers\\InicioController.cs",
+              "RelativeToolTip": "Curso_Mvc\\Controllers\\InicioController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAuwEgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T20:13:39.054Z",
               "EditorCaption": ""
             }
           ]

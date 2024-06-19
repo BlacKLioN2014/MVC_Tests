@@ -4105,24 +4105,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Abraham I\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\abrah\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Abraham I\\Desktop\\Proyecto_GitHub\\Curso_Mvc\\Curso_Mvc.csproj",
+      "projectUniqueName": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\Curso_Mvc\\Curso_Mvc.csproj",
       "projectName": "Curso_Mvc",
-      "projectPath": "C:\\Users\\Abraham I\\Desktop\\Proyecto_GitHub\\Curso_Mvc\\Curso_Mvc.csproj",
-      "packagesPath": "C:\\Users\\Abraham I\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Abraham I\\Desktop\\Proyecto_GitHub\\Curso_Mvc\\obj\\",
+      "projectPath": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\Curso_Mvc\\Curso_Mvc.csproj",
+      "packagesPath": "C:\\Users\\abrah\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\Curso_Mvc\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Abraham I\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\abrah\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

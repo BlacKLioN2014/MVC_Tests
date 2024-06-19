@@ -24,6 +24,59 @@ namespace Curso_Mvc.Controllers
             return View(await _dbContext.contacto.ToListAsync());
         }
 
+        [HttpGet]
+        public IActionResult Crear()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Crear(Contacto contacto)
+        {
+            if (ModelState.IsValid)
+            {
+                contacto.FechaCreacion = DateTime.Now;
+
+                _dbContext.contacto.Add(contacto);
+                await _dbContext.SaveChangesAsync();
+                return RedirectToAction(/*"Index"*/nameof(Index));
+            }
+            return View();
+        }
+
+        [HttpGet]
+        public IActionResult Editar(int? Id)
+        {
+            if(Id == null)
+            {
+                return NotFound();
+            }
+
+            var contacto = _dbContext.contacto.Find(Id);
+            if(contacto == null)
+            {
+                return NotFound();
+            }
+            
+
+            return View(contacto);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Editar(Contacto contacto)
+        {
+            if (ModelState.IsValid)
+            {
+
+                _dbContext.contacto.Update(contacto);
+                await _dbContext.SaveChangesAsync();
+                return RedirectToAction(/*"Index"*/nameof(Index));
+            }
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
