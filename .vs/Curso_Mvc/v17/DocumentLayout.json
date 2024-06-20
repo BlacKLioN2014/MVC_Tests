@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{187C907E-A1F2-42D1-8158-76D8400F8E53}|Curso_Mvc\\Curso_Mvc.csproj|c:\\users\\abrah\\onedrive\\escritorio\\pruebas mvc\\mvc_tests\\curso_mvc\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{187C907E-A1F2-42D1-8158-76D8400F8E53}|Curso_Mvc\\Curso_Mvc.csproj|solutionrelative:curso_mvc\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{187C907E-A1F2-42D1-8158-76D8400F8E53}|Curso_Mvc\\Curso_Mvc.csproj|c:\\users\\abrah\\onedrive\\escritorio\\pruebas mvc\\mvc_tests\\curso_mvc\\views\\inicio\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{187C907E-A1F2-42D1-8158-76D8400F8E53}|Curso_Mvc\\Curso_Mvc.csproj|solutionrelative:curso_mvc\\views\\inicio\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -17,6 +13,30 @@
     {
       "AbsoluteMoniker": "D:0:0:{187C907E-A1F2-42D1-8158-76D8400F8E53}|Curso_Mvc\\Curso_Mvc.csproj|c:\\users\\abrah\\onedrive\\escritorio\\pruebas mvc\\mvc_tests\\curso_mvc\\views\\inicio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{187C907E-A1F2-42D1-8158-76D8400F8E53}|Curso_Mvc\\Curso_Mvc.csproj|solutionrelative:curso_mvc\\views\\inicio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187C907E-A1F2-42D1-8158-76D8400F8E53}|Curso_Mvc\\Curso_Mvc.csproj|c:\\users\\abrah\\onedrive\\escritorio\\pruebas mvc\\mvc_tests\\curso_mvc\\views\\inicio\\borrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{187C907E-A1F2-42D1-8158-76D8400F8E53}|Curso_Mvc\\Curso_Mvc.csproj|solutionrelative:curso_mvc\\views\\inicio\\borrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187C907E-A1F2-42D1-8158-76D8400F8E53}|Curso_Mvc\\Curso_Mvc.csproj|c:\\users\\abrah\\onedrive\\escritorio\\pruebas mvc\\mvc_tests\\curso_mvc\\views\\inicio\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{187C907E-A1F2-42D1-8158-76D8400F8E53}|Curso_Mvc\\Curso_Mvc.csproj|solutionrelative:curso_mvc\\views\\inicio\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187C907E-A1F2-42D1-8158-76D8400F8E53}|Curso_Mvc\\Curso_Mvc.csproj|c:\\users\\abrah\\onedrive\\escritorio\\pruebas mvc\\mvc_tests\\curso_mvc\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187C907E-A1F2-42D1-8158-76D8400F8E53}|Curso_Mvc\\Curso_Mvc.csproj|solutionrelative:curso_mvc\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187C907E-A1F2-42D1-8158-76D8400F8E53}|Curso_Mvc\\Curso_Mvc.csproj|c:\\users\\abrah\\onedrive\\escritorio\\pruebas mvc\\mvc_tests\\curso_mvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187C907E-A1F2-42D1-8158-76D8400F8E53}|Curso_Mvc\\Curso_Mvc.csproj|solutionrelative:curso_mvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187C907E-A1F2-42D1-8158-76D8400F8E53}|Curso_Mvc\\Curso_Mvc.csproj|c:\\users\\abrah\\onedrive\\escritorio\\pruebas mvc\\mvc_tests\\curso_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{187C907E-A1F2-42D1-8158-76D8400F8E53}|Curso_Mvc\\Curso_Mvc.csproj|solutionrelative:curso_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187C907E-A1F2-42D1-8158-76D8400F8E53}|Curso_Mvc\\Curso_Mvc.csproj|c:\\users\\abrah\\onedrive\\escritorio\\pruebas mvc\\mvc_tests\\curso_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187C907E-A1F2-42D1-8158-76D8400F8E53}|Curso_Mvc\\Curso_Mvc.csproj|solutionrelative:curso_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +46,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\Curso_Mvc\\Program.cs",
+              "RelativeDocumentMoniker": "Curso_Mvc\\Program.cs",
+              "ToolTip": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\Curso_Mvc\\Program.cs",
+              "RelativeToolTip": "Curso_Mvc\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:00:29.828Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\Curso_Mvc\\appsettings.json",
+              "RelativeDocumentMoniker": "Curso_Mvc\\appsettings.json",
+              "ToolTip": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\Curso_Mvc\\appsettings.json",
+              "RelativeToolTip": "Curso_Mvc\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T17:00:40.795Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\Curso_Mvc\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Curso_Mvc\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\Curso_Mvc\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Curso_Mvc\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:01:22.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Borrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\Curso_Mvc\\Views\\Inicio\\Borrar.cshtml",
+              "RelativeDocumentMoniker": "Curso_Mvc\\Views\\Inicio\\Borrar.cshtml",
+              "ToolTip": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\Curso_Mvc\\Views\\Inicio\\Borrar.cshtml",
+              "RelativeToolTip": "Curso_Mvc\\Views\\Inicio\\Borrar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T16:28:09.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Detalle.cshtml",
+              "DocumentMoniker": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\Curso_Mvc\\Views\\Inicio\\Detalle.cshtml",
+              "RelativeDocumentMoniker": "Curso_Mvc\\Views\\Inicio\\Detalle.cshtml",
+              "ToolTip": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\Curso_Mvc\\Views\\Inicio\\Detalle.cshtml",
+              "RelativeToolTip": "Curso_Mvc\\Views\\Inicio\\Detalle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T16:18:02.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Editar.cshtml",
               "DocumentMoniker": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\Curso_Mvc\\Views\\Inicio\\Editar.cshtml",
               "RelativeDocumentMoniker": "Curso_Mvc\\Views\\Inicio\\Editar.cshtml",
               "ToolTip": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\Curso_Mvc\\Views\\Inicio\\Editar.cshtml",
               "RelativeToolTip": "Curso_Mvc\\Views\\Inicio\\Editar.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAA6AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-19T21:44:23.757Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Crear.cshtml",
               "DocumentMoniker": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\Curso_Mvc\\Views\\Inicio\\Crear.cshtml",
               "RelativeDocumentMoniker": "Curso_Mvc\\Views\\Inicio\\Crear.cshtml",
               "ToolTip": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\Curso_Mvc\\Views\\Inicio\\Crear.cshtml",
               "RelativeToolTip": "Curso_Mvc\\Views\\Inicio\\Crear.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAaAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAMAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-19T20:17:11.789Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\Curso_Mvc\\Views\\Inicio\\Index.cshtml",
               "RelativeDocumentMoniker": "Curso_Mvc\\Views\\Inicio\\Index.cshtml",
               "ToolTip": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\Curso_Mvc\\Views\\Inicio\\Index.cshtml",
               "RelativeToolTip": "Curso_Mvc\\Views\\Inicio\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-13T03:38:59.114Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "InicioController.cs",
               "DocumentMoniker": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\Curso_Mvc\\Controllers\\InicioController.cs",
               "RelativeDocumentMoniker": "Curso_Mvc\\Controllers\\InicioController.cs",
               "ToolTip": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\Curso_Mvc\\Controllers\\InicioController.cs",
               "RelativeToolTip": "Curso_Mvc\\Controllers\\InicioController.cs",
-              "ViewState": "AQIAAD4AAAAAAAAAAAAuwEgAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T20:13:39.054Z",
               "EditorCaption": ""

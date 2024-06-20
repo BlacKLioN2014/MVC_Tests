@@ -18,8 +18,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\abrah\OneDrive\Escritorio\Pruebas MVC\MVC_Tests\Curso_Mvc
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/abrah/OneDrive/Escritorio/Pruebas MVC/MVC_Tests/Curso_Mvc/Views/Inicio/Borrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5pY2lvXEJvcnJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/abrah/OneDrive/Escritorio/Pruebas MVC/MVC_Tests/Curso_Mvc/Views/Inicio/Crear.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5pY2lvXENyZWFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abrah/OneDrive/Escritorio/Pruebas MVC/MVC_Tests/Curso_Mvc/Views/Inicio/Detalle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5pY2lvXERldGFsbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/abrah/OneDrive/Escritorio/Pruebas MVC/MVC_Tests/Curso_Mvc/Views/Inicio/Editar.cshtml]
