@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ieOgRW3efxXO8T9AniQR4HMLG4gfrWTH8nMLf42WK7Q=",
+  "Hash": "py3rsukkgKyjWDvsDqc0OHe45EWfx8KSZnAbEGH13TE=",
   "Source": "BlogCore",
   "BasePath": "_content/BlogCore",
   "Mode": "Default",
@@ -1402,6 +1402,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\Bootstrap5.min.css",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore\\wwwroot\\",
+      "BasePath": "_content/BlogCore",
+      "RelativePath": "lib/bootstrap/dist/css/Bootstrap5.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\Bootstrap5.min.css"
     },
     {
       "Identity": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",

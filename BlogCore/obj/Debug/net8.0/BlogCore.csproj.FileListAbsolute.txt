@@ -261,3 +261,9 @@ C:\Users\abrah\OneDrive\Escritorio\Pruebas MVC\MVC_Tests\BlogCore\obj\Debug\net8
 C:\Users\abrah\OneDrive\Escritorio\Pruebas MVC\MVC_Tests\BlogCore\obj\Debug\net8.0\BlogCore.pdb
 C:\Users\abrah\OneDrive\Escritorio\Pruebas MVC\MVC_Tests\BlogCore\obj\Debug\net8.0\BlogCore.genruntimeconfig.cache
 C:\Users\abrah\OneDrive\Escritorio\Pruebas MVC\MVC_Tests\BlogCore\obj\Debug\net8.0\ref\BlogCore.dll
+C:\Users\abrah\OneDrive\Escritorio\Pruebas MVC\MVC_Tests\BlogCore\bin\Debug\net8.0\BlogCore.AccesoDatos.dll
+C:\Users\abrah\OneDrive\Escritorio\Pruebas MVC\MVC_Tests\BlogCore\bin\Debug\net8.0\BlogCore.Models.dll
+C:\Users\abrah\OneDrive\Escritorio\Pruebas MVC\MVC_Tests\BlogCore\bin\Debug\net8.0\BlogCore.Utilidades.dll
+C:\Users\abrah\OneDrive\Escritorio\Pruebas MVC\MVC_Tests\BlogCore\bin\Debug\net8.0\BlogCore.AccesoDatos.pdb
+C:\Users\abrah\OneDrive\Escritorio\Pruebas MVC\MVC_Tests\BlogCore\bin\Debug\net8.0\BlogCore.Models.pdb
+C:\Users\abrah\OneDrive\Escritorio\Pruebas MVC\MVC_Tests\BlogCore\bin\Debug\net8.0\BlogCore.Utilidades.pdb

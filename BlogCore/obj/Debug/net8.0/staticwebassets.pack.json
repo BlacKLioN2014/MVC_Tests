@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
+      "Id": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\Bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\Bootstrap5.min.css"
+    },
+    {
       "Id": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
