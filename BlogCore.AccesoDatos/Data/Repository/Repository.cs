@@ -45,6 +45,7 @@ namespace BlogCore.AccesoDatos.Data.Repository
             //Se incluyen propiedades de navegacion si se proporcionan
             if(includeProperties != null)
             {
+                //se divide la cadena de ´propiedades por coma y se itera sobre ellas
                 foreach(var includeProperty in includeProperties.Split(new char[] { ',' }, StringSplitOptions.RemoveEmptyEntries))
                 {
                     query = query.Include(includeProperty);
@@ -57,23 +58,43 @@ namespace BlogCore.AccesoDatos.Data.Repository
                 return orderBy(query).ToList();
             }
 
+            //si no se proporciona ordenamiento, simplemente se convierte en una lista.
             return query.ToList();
 
         }
 
         public T GetFirstOrDefault(Expression<Func<T, bool>>? filter = null, string? includeProperties = null)
         {
-            throw new NotImplementedException();
+            //se crea una consulta  IQuerable a partir del DbSet del contexto
+            IQueryable<T> query = dbSet;
+
+            //Se aplica el filtro si se proporciona
+            if (filter != null)
+            {
+                query = query.Where(filter);
+            }
+
+            //Se incluyen propiedades de navegacion si se proporcionan
+            if (includeProperties != null)
+            {
+                //se divide la cadena de ´propiedades por coma y se itera sobre ellas
+                foreach (var includeProperty in includeProperties.Split(new char[] { ',' }, StringSplitOptions.RemoveEmptyEntries))
+                {
+                    query = query.Include(includeProperty);
+                }
+            }
+
+            return query.FirstOrDefault();
         }
 
         public void Remove(int id)
         {
-            throw new NotImplementedException();
+            T entityToRemove = dbSet.Find(id);
         }
 
         public void Remove(T entity)
         {
-            throw new NotImplementedException();
+            dbSet.Remove(entity);
         }
     }
 }
