@@ -26,6 +26,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\abrah\OneDrive\Escritorio\Pruebas MVC\MVC_Tests\BlogCore
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/abrah/OneDrive/Escritorio/Pruebas MVC/MVC_Tests/BlogCore/Areas/Admin/Views/Articulos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXJ0aWN1bG9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/abrah/OneDrive/Escritorio/Pruebas MVC/MVC_Tests/BlogCore/Areas/Admin/Views/Categorias/crear.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcmlhc1xjcmVhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

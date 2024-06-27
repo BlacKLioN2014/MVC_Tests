@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Lista de Articulos";
+}
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-8">
+            <h2 class="text_primary">Lista de categorias</h2>
+        </div>
+        <div class="col-4 text-right">
+            <a asp-area="Admin" asp-controller="Articulos" asp-action="Create" class="btn btn-primary"> <i class="fa-solid fa-plus"></i> Crear nueva Artículo</a>
+        </div>
+    </div>
+
+    <br />
+    <br />
+    <table id="tblArticulos" class="table table-striped table-bordered" style=" width:100%">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nombre</th>
+                <th>Categoria</th>
+                <th>Fecha de creacion</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+
+    </table>
+</div>
+
+@section Scripts {
+    <script src="~/js/articulos.js"></script>
+}
