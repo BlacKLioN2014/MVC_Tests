@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DEF006F7-4BEE-42AC-A23B-BA2838823BE3}|BlogCore\\BlogCore.csproj|c:\\users\\abrah\\onedrive\\escritorio\\pruebas mvc\\mvc_tests\\blogcore\\areas\\admin\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEF006F7-4BEE-42AC-A23B-BA2838823BE3}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEF006F7-4BEE-42AC-A23B-BA2838823BE3}|BlogCore\\BlogCore.csproj|c:\\users\\abrah\\onedrive\\escritorio\\pruebas mvc\\mvc_tests\\blogcore\\areas\\admin\\views\\categorias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DEF006F7-4BEE-42AC-A23B-BA2838823BE3}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\views\\categorias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DEF006F7-4BEE-42AC-A23B-BA2838823BE3}|BlogCore\\BlogCore.csproj|c:\\users\\abrah\\onedrive\\escritorio\\pruebas mvc\\mvc_tests\\blogcore\\areas\\admin\\views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DEF006F7-4BEE-42AC-A23B-BA2838823BE3}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEF006F7-4BEE-42AC-A23B-BA2838823BE3}|BlogCore\\BlogCore.csproj|c:\\users\\abrah\\onedrive\\escritorio\\pruebas mvc\\mvc_tests\\blogcore\\views\\shared\\_vistacrearvolver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DEF006F7-4BEE-42AC-A23B-BA2838823BE3}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\views\\shared\\_vistacrearvolver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DEF006F7-4BEE-42AC-A23B-BA2838823BE3}|BlogCore\\BlogCore.csproj|c:\\users\\abrah\\onedrive\\escritorio\\pruebas mvc\\mvc_tests\\blogcore\\areas\\admin\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF006F7-4BEE-42AC-A23B-BA2838823BE3}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DEF006F7-4BEE-42AC-A23B-BA2838823BE3}|BlogCore\\BlogCore.csproj|c:\\users\\abrah\\onedrive\\escritorio\\pruebas mvc\\mvc_tests\\blogcore\\areas\\admin\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DEF006F7-4BEE-42AC-A23B-BA2838823BE3}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{401258D1-E7BA-4F04-ADD1-1721511DC573}|BlogCore.Models\\BlogCore.Models.csproj|c:\\users\\abrah\\onedrive\\escritorio\\pruebas mvc\\mvc_tests\\blogcore.models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401258D1-E7BA-4F04-ADD1-1721511DC573}|BlogCore.Models\\BlogCore.Models.csproj|solutionrelative:blogcore.models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DEF006F7-4BEE-42AC-A23B-BA2838823BE3}|BlogCore\\BlogCore.csproj|c:\\users\\abrah\\onedrive\\escritorio\\pruebas mvc\\mvc_tests\\blogcore\\wwwroot\\js\\categoria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{DEF006F7-4BEE-42AC-A23B-BA2838823BE3}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\wwwroot\\js\\categoria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{401258D1-E7BA-4F04-ADD1-1721511DC573}|BlogCore.Models\\BlogCore.Models.csproj|c:\\users\\abrah\\onedrive\\escritorio\\pruebas mvc\\mvc_tests\\blogcore.models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{401258D1-E7BA-4F04-ADD1-1721511DC573}|BlogCore.Models\\BlogCore.Models.csproj|solutionrelative:blogcore.models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEF006F7-4BEE-42AC-A23B-BA2838823BE3}|BlogCore\\BlogCore.csproj|c:\\users\\abrah\\onedrive\\escritorio\\pruebas mvc\\mvc_tests\\blogcore\\areas\\admin\\views\\categorias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEF006F7-4BEE-42AC-A23B-BA2838823BE3}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\views\\categorias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF006F7-4BEE-42AC-A23B-BA2838823BE3}|BlogCore\\BlogCore.csproj|c:\\users\\abrah\\onedrive\\escritorio\\pruebas mvc\\mvc_tests\\blogcore\\views\\shared\\_vistacrearvolver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEF006F7-4BEE-42AC-A23B-BA2838823BE3}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\views\\shared\\_vistacrearvolver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF006F7-4BEE-42AC-A23B-BA2838823BE3}|BlogCore\\BlogCore.csproj|c:\\users\\abrah\\onedrive\\escritorio\\pruebas mvc\\mvc_tests\\blogcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEF006F7-4BEE-42AC-A23B-BA2838823BE3}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +50,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BlogCore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAAAHEAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T15:40:46.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "_VistaCrearVolver.cshtml",
               "DocumentMoniker": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore\\Views\\Shared\\_VistaCrearVolver.cshtml",
               "RelativeDocumentMoniker": "BlogCore\\Views\\Shared\\_VistaCrearVolver.cshtml",
@@ -59,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore\\Areas\\Admin\\Views\\Categorias\\Edit.cshtml",
               "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Views\\Categorias\\Edit.cshtml",
@@ -72,20 +89,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "categoria.js",
               "DocumentMoniker": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore\\wwwroot\\js\\categoria.js",
               "RelativeDocumentMoniker": "BlogCore\\wwwroot\\js\\categoria.js",
               "ToolTip": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore\\wwwroot\\js\\categoria.js",
               "RelativeToolTip": "BlogCore\\wwwroot\\js\\categoria.js",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAswB8AAAAhAAAA",
+              "ViewState": "AQIAADoAAAAAAAAAAAAswEMAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-06-26T22:27:24.424Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore.Models\\Categoria.cs",
               "RelativeDocumentMoniker": "BlogCore.Models\\Categoria.cs",
@@ -98,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore\\Areas\\Admin\\Views\\Categorias\\Index.cshtml",
               "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Views\\Categorias\\Index.cshtml",
@@ -111,26 +128,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CategoriasController.cs",
               "DocumentMoniker": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore\\Areas\\Admin\\Controllers\\CategoriasController.cs",
               "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Controllers\\CategoriasController.cs",
               "ToolTip": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore\\Areas\\Admin\\Controllers\\CategoriasController.cs",
               "RelativeToolTip": "BlogCore\\Areas\\Admin\\Controllers\\CategoriasController.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAqwDkAAAASAAAA",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAQwFwAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-26T19:29:42.051Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore\\Areas\\Admin\\Views\\Categorias\\Create.cshtml",
               "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Views\\Categorias\\Create.cshtml",
               "ToolTip": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore\\Areas\\Admin\\Views\\Categorias\\Create.cshtml",
               "RelativeToolTip": "BlogCore\\Areas\\Admin\\Views\\Categorias\\Create.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAABdAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABsAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-26T19:50:56.472Z",
               "EditorCaption": ""

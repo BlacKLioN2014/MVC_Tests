@@ -1,4 +1,5 @@
-﻿using BlogCore.AccesoDatos.Data.Repository.IRepository;
+﻿using BlogCore.AccesoDatos.Data.Repository;
+using BlogCore.AccesoDatos.Data.Repository.IRepository;
 using BlogCore.Models;
 using Microsoft.AspNetCore.Mvc;
 
@@ -71,12 +72,32 @@ namespace BlogCore.Areas.Admin.Controllers
 
 
         #region llamadas a la API
+
         [HttpGet]
         public IActionResult GetAll()
         {
             return Json(new {data = _contenedorTrabajo.Categoria.GetAll()});
         }
 
+        [HttpDelete]
+        public IActionResult Delete(int id)
+        {
+            var objFromDb = _contenedorTrabajo.Categoria.Get(id);
+
+            if(objFromDb == null)
+            {
+                return Json(new { success = false, message = "Error borrando categoría" });
+            }
+
+            _contenedorTrabajo.Categoria.Remove(objFromDb);
+            _contenedorTrabajo.save();
+
+            return Json(new {success = true, message = "Categoría borrada correctamente"});
+
+        }
+
         #endregion
+
+
     }
 }
