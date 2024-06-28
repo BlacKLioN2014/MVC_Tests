@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore\\wwwroot\\js\\articulos.js",
+      "PackagePath": "staticwebassets\\js\\articulos.js"
+    },
+    {
       "Id": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore\\wwwroot\\js\\categoria.js",
       "PackagePath": "staticwebassets\\js\\categoria.js"
     },
