@@ -7,36 +7,20 @@
       "RelativeMoniker": "D:0:0:{DEF006F7-4BEE-42AC-A23B-BA2838823BE3}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\views\\articulos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEF006F7-4BEE-42AC-A23B-BA2838823BE3}|BlogCore\\BlogCore.csproj|c:\\users\\abrah\\onedrive\\escritorio\\pruebas mvc\\mvc_tests\\blogcore\\areas\\admin\\views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DEF006F7-4BEE-42AC-A23B-BA2838823BE3}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DEF006F7-4BEE-42AC-A23B-BA2838823BE3}|BlogCore\\BlogCore.csproj|c:\\users\\abrah\\onedrive\\escritorio\\pruebas mvc\\mvc_tests\\blogcore\\areas\\admin\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEF006F7-4BEE-42AC-A23B-BA2838823BE3}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEF006F7-4BEE-42AC-A23B-BA2838823BE3}|BlogCore\\BlogCore.csproj|c:\\users\\abrah\\onedrive\\escritorio\\pruebas mvc\\mvc_tests\\blogcore\\areas\\admin\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEF006F7-4BEE-42AC-A23B-BA2838823BE3}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61711C48-732D-4FA7-84CB-8A76C2FEA542}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|c:\\users\\abrah\\onedrive\\escritorio\\pruebas mvc\\mvc_tests\\blogcore.accesodatos\\data\\repository\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61711C48-732D-4FA7-84CB-8A76C2FEA542}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|solutionrelative:blogcore.accesodatos\\data\\repository\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEF006F7-4BEE-42AC-A23B-BA2838823BE3}|BlogCore\\BlogCore.csproj|c:\\users\\abrah\\onedrive\\escritorio\\pruebas mvc\\mvc_tests\\blogcore\\wwwroot\\js\\articulos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{DEF006F7-4BEE-42AC-A23B-BA2838823BE3}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\wwwroot\\js\\articulos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{61711C48-732D-4FA7-84CB-8A76C2FEA542}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|c:\\users\\abrah\\onedrive\\escritorio\\pruebas mvc\\mvc_tests\\blogcore.accesodatos\\data\\repository\\irepository\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61711C48-732D-4FA7-84CB-8A76C2FEA542}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|solutionrelative:blogcore.accesodatos\\data\\repository\\irepository\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEF006F7-4BEE-42AC-A23B-BA2838823BE3}|BlogCore\\BlogCore.csproj|c:\\users\\abrah\\onedrive\\escritorio\\pruebas mvc\\mvc_tests\\blogcore\\areas\\admin\\views\\articulos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DEF006F7-4BEE-42AC-A23B-BA2838823BE3}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\views\\articulos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEF006F7-4BEE-42AC-A23B-BA2838823BE3}|BlogCore\\BlogCore.csproj|c:\\users\\abrah\\onedrive\\escritorio\\pruebas mvc\\mvc_tests\\blogcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DEF006F7-4BEE-42AC-A23B-BA2838823BE3}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{401258D1-E7BA-4F04-ADD1-1721511DC573}|BlogCore.Models\\BlogCore.Models.csproj|c:\\users\\abrah\\onedrive\\escritorio\\pruebas mvc\\mvc_tests\\blogcore.models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{401258D1-E7BA-4F04-ADD1-1721511DC573}|BlogCore.Models\\BlogCore.Models.csproj|solutionrelative:blogcore.models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61711C48-732D-4FA7-84CB-8A76C2FEA542}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|c:\\users\\abrah\\onedrive\\escritorio\\pruebas mvc\\mvc_tests\\blogcore.accesodatos\\data\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61711C48-732D-4FA7-84CB-8A76C2FEA542}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|solutionrelative:blogcore.accesodatos\\data\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{401258D1-E7BA-4F04-ADD1-1721511DC573}|BlogCore.Models\\BlogCore.Models.csproj|c:\\users\\abrah\\onedrive\\escritorio\\pruebas mvc\\mvc_tests\\blogcore.models\\viewmodels\\articulovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401258D1-E7BA-4F04-ADD1-1721511DC573}|BlogCore.Models\\BlogCore.Models.csproj|solutionrelative:blogcore.models\\viewmodels\\articulovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,15 +38,41 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArticuloVM.cs",
+              "DocumentMoniker": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore.Models\\ViewModels\\ArticuloVM.cs",
+              "RelativeDocumentMoniker": "BlogCore.Models\\ViewModels\\ArticuloVM.cs",
+              "ToolTip": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore.Models\\ViewModels\\ArticuloVM.cs",
+              "RelativeToolTip": "BlogCore.Models\\ViewModels\\ArticuloVM.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:04:29.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore\\Areas\\Admin\\Views\\Categorias\\Create.cshtml",
-              "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Views\\Categorias\\Create.cshtml",
-              "ToolTip": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore\\Areas\\Admin\\Views\\Categorias\\Create.cshtml",
-              "RelativeToolTip": "BlogCore\\Areas\\Admin\\Views\\Categorias\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-28T16:12:15.951Z",
+              "Title": "ArticulosController.cs",
+              "DocumentMoniker": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore\\Areas\\Admin\\Controllers\\ArticulosController.cs",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Controllers\\ArticulosController.cs",
+              "ToolTip": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore\\Areas\\Admin\\Controllers\\ArticulosController.cs",
+              "RelativeToolTip": "BlogCore\\Areas\\Admin\\Controllers\\ArticulosController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:05:45.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore.AccesoDatos\\Data\\Repository\\IRepository\\ICategoriaRepository.cs",
+              "RelativeDocumentMoniker": "BlogCore.AccesoDatos\\Data\\Repository\\IRepository\\ICategoriaRepository.cs",
+              "ToolTip": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore.AccesoDatos\\Data\\Repository\\IRepository\\ICategoriaRepository.cs",
+              "RelativeToolTip": "BlogCore.AccesoDatos\\Data\\Repository\\IRepository\\ICategoriaRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:06:40.695Z",
               "EditorCaption": ""
             },
             {
@@ -73,100 +83,22 @@
               "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Views\\Articulos\\Create.cshtml",
               "ToolTip": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore\\Areas\\Admin\\Views\\Articulos\\Create.cshtml",
               "RelativeToolTip": "BlogCore\\Areas\\Admin\\Views\\Articulos\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAABAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAuwCsAAABoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-28T16:10:57.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore.AccesoDatos\\Data\\Repository\\Repository.cs",
-              "RelativeDocumentMoniker": "BlogCore.AccesoDatos\\Data\\Repository\\Repository.cs",
-              "ToolTip": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore.AccesoDatos\\Data\\Repository\\Repository.cs",
-              "RelativeToolTip": "BlogCore.AccesoDatos\\Data\\Repository\\Repository.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAIwCsAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T15:49:03.362Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Articulo.cs",
-              "DocumentMoniker": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore.Models\\Articulo.cs",
-              "RelativeDocumentMoniker": "BlogCore.Models\\Articulo.cs",
-              "ToolTip": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore.Models\\Articulo.cs",
-              "RelativeToolTip": "BlogCore.Models\\Articulo.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAowBgAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T15:38:58.949Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoriasController.cs",
-              "DocumentMoniker": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore\\Areas\\Admin\\Controllers\\CategoriasController.cs",
-              "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Controllers\\CategoriasController.cs",
-              "ToolTip": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore\\Areas\\Admin\\Controllers\\CategoriasController.cs",
-              "RelativeToolTip": "BlogCore\\Areas\\Admin\\Controllers\\CategoriasController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwEkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T15:36:33.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "BlogCore\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "BlogCore\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-27T22:43:19.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore\\Areas\\Admin\\Views\\Articulos\\Index.cshtml",
-              "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Views\\Articulos\\Index.cshtml",
-              "ToolTip": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore\\Areas\\Admin\\Views\\Articulos\\Index.cshtml",
-              "RelativeToolTip": "BlogCore\\Areas\\Admin\\Views\\Articulos\\Index.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-27T19:52:42.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "articulos.js",
-              "DocumentMoniker": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore\\wwwroot\\js\\articulos.js",
-              "RelativeDocumentMoniker": "BlogCore\\wwwroot\\js\\articulos.js",
-              "ToolTip": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore\\wwwroot\\js\\articulos.js",
-              "RelativeToolTip": "BlogCore\\wwwroot\\js\\articulos.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-06-27T20:44:44.42Z",
+              "WhenOpened": "2024-06-28T18:08:38.007Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ArticulosController.cs",
-              "DocumentMoniker": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore\\Areas\\Admin\\Controllers\\ArticulosController.cs",
-              "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Controllers\\ArticulosController.cs",
-              "ToolTip": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore\\Areas\\Admin\\Controllers\\ArticulosController.cs",
-              "RelativeToolTip": "BlogCore\\Areas\\Admin\\Controllers\\ArticulosController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBgAAAAJAAAA",
+              "Title": "CategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore.AccesoDatos\\Data\\Repository\\CategoriaRepository.cs",
+              "RelativeDocumentMoniker": "BlogCore.AccesoDatos\\Data\\Repository\\CategoriaRepository.cs",
+              "ToolTip": "C:\\Users\\abrah\\OneDrive\\Escritorio\\Pruebas MVC\\MVC_Tests\\BlogCore.AccesoDatos\\Data\\Repository\\CategoriaRepository.cs",
+              "RelativeToolTip": "BlogCore.AccesoDatos\\Data\\Repository\\CategoriaRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T19:49:00.57Z",
+              "WhenOpened": "2024-06-28T18:07:05.813Z",
               "EditorCaption": ""
             }
           ]

@@ -1,6 +1,7 @@
 C:\Users\abrah\OneDrive\Escritorio\Pruebas MVC\MVC_Tests\BlogCore.Models\bin\Debug\net8.0\BlogCore.Models.deps.json
 C:\Users\abrah\OneDrive\Escritorio\Pruebas MVC\MVC_Tests\BlogCore.Models\bin\Debug\net8.0\BlogCore.Models.dll
 C:\Users\abrah\OneDrive\Escritorio\Pruebas MVC\MVC_Tests\BlogCore.Models\bin\Debug\net8.0\BlogCore.Models.pdb
+C:\Users\abrah\OneDrive\Escritorio\Pruebas MVC\MVC_Tests\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.csproj.AssemblyReference.cache
 C:\Users\abrah\OneDrive\Escritorio\Pruebas MVC\MVC_Tests\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\abrah\OneDrive\Escritorio\Pruebas MVC\MVC_Tests\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.AssemblyInfoInputs.cache
 C:\Users\abrah\OneDrive\Escritorio\Pruebas MVC\MVC_Tests\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.AssemblyInfo.cs
